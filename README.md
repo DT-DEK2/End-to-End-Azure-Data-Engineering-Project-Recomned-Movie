@@ -11,14 +11,15 @@ The RECOMMEND_MOVIED project illustrates a comprehensive pipeline from data coll
 </div>
 
 # Demo
-1. Setting Call API, Build Pipeline in Azure Data Factory
-<iframe width="560" height="315" src="https://www.youtube.com/embed/od2siqwEgSo?si=SahvtoT7YWb3tCKd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  ## 1. Setting Call API, Build Pipeline in Azure Data Factory
+  [![Watch the video](https://img.youtube.com/vi/od2siqwEgSo/maxresdefault.jpg)](https://youtu.be/od2siqwEgSo?si=SahvtoT7YWb3tCKd)
 
-2. Deploy model in Databicks
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gcFgPiljkzA?si=U3wINPLN-_J-LJz7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  ## 2. Deploy model in Databricks
+  [![Watch the video](https://img.youtube.com/vi/gcFgPiljkzA/maxresdefault.jpg)](https://youtu.be/gcFgPiljkzA?si=U3wINPLN-_J-LJz7)
 
-3. Demo User Interface
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-LpfIuldd2o?si=rvK_mFuSP_0lel0r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  ## 3. Demo User Interface
+  [![Watch the video](https://img.youtube.com/vi/-LpfIuldd2o/maxresdefault.jpg)](https://youtu.be/-LpfIuldd2o?si=rvK_mFuSP_0lel0r)
+
 
 # Data Preparation and Modeling:
 -  Data Collection: Data is sourced from The Movie Database (TMDB) API and ingested using Azure Data Factory.
