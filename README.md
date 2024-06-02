@@ -6,25 +6,19 @@ The RECOMMEND_MOVIED project illustrates a comprehensive pipeline from data coll
  <br />
 <div align="center">
   <a href="Document/work flow.png">
-    <img src="Document/work flow.png" alt="Logo" width="80" height="80">
+    <img src="Document/work flow.png/" >
   </a>
+</div>
 
-  <h3 align="center">Best-README-Template</h3>
+# Demo
+1. Setting Call API, Build Pipeline in Azure Data Factory
+<iframe width="560" height="315" src="https://www.youtube.com/embed/od2siqwEgSo?si=SahvtoT7YWb3tCKd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
-</div> 
+2. Deploy model in Databicks
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gcFgPiljkzA?si=U3wINPLN-_J-LJz7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+3. Demo User Interface
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-LpfIuldd2o?si=rvK_mFuSP_0lel0r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Data Preparation and Modeling:
 -  Data Collection: Data is sourced from The Movie Database (TMDB) API and ingested using Azure Data Factory.
@@ -41,3 +35,4 @@ The RECOMMEND_MOVIED project illustrates a comprehensive pipeline from data coll
  - Integration with PowerApps: Microsoft PowerApps provides the user interface, enabling user clients to interact with the deployed model.
 
 This architecture demonstrates an efficient workflow that leverages Azure's capabilities for seamless data handling, model training, deployment, and user interaction, forming a robust recommendation system.
+
